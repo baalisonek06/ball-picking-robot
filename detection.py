@@ -53,3 +53,4 @@ while (vs.isOpened()):
     i=i+1
 vs.release()
 cv2.destroyAllWindows()
+
